@@ -29,12 +29,6 @@ Neste projeto, desenvolvemos uma solução para otimizar os serviços de aconsel
 - **Seaborn**
 - **Plotly**
 
-## Pré-requisitos
-
-Para que você tenha um maior aproveitamento do curso, recomendamos que você tenha conhecimentos prévios em:
-- Python
-- Pandas
-
----
+ ---
 
 Esperamos que este projeto seja útil e ajude a melhorar os serviços de consultoria para imigração!
